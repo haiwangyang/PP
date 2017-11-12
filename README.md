@@ -17,7 +17,7 @@
 <br />Spreadsheet name of the 4th plate
 # Output file
 * data/pico.reads.xlsx
-An excel file with six spreadsheets:
+<br />An excel file with six spreadsheets:
 <br />(1) raw data in 384-well plate; 
 <br />(2) reads of standard and their known concentration; 
 <br />(3) 1st_plate; 
